@@ -1,4 +1,4 @@
-package day_42_override;
+package day42_override;
 
 public class AparentClass {
 
