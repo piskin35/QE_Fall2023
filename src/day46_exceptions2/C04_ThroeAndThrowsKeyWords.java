@@ -2,7 +2,7 @@ package day46_exceptions2;
 
 import java.io.IOException;
 
-public class C04_ThrowsKeyWord {
+public class C04_ThroeAndThrowsKeyWords {
 
     public static void main(String[] args) throws IOException {
 
